@@ -2,7 +2,7 @@
   <h2>💦 Full-Stack Software Developer | AI, Web3 & Scalable Systems 💦</h2>
 </div>
 
-<h3>𝘐’𝘮 𝘢 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘵𝘩𝘢𝘵 𝘢𝘤𝘵𝘶𝘢𝘭𝘭𝘺 𝘸𝘰𝘳𝘬 — 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘪𝘯 𝘵𝘩𝘦𝘰𝘳𝘺, 𝘣𝘶𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘳𝘦𝘢𝘭 𝘸𝘰𝘳𝘭𝘥.</h3>
+<p>𝘐’𝘮 𝘢 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘵𝘩𝘢𝘵 𝘢𝘤𝘵𝘶𝘢𝘭𝘭𝘺 𝘸𝘰𝘳𝘬 — 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘪𝘯 𝘵𝘩𝘦𝘰𝘳𝘺, 𝘣𝘶𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘳𝘦𝘢𝘭 𝘸𝘰𝘳𝘭𝘥.</p>
 
 <p>𝘐’𝘷𝘦 𝘸𝘰𝘳𝘬𝘦𝘥 𝘢𝘤𝘳𝘰𝘴𝘴 20+ 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘪𝘯 𝘪𝘯𝘥𝘶𝘴𝘵𝘳𝘪𝘦𝘴 𝘭𝘪𝘬𝘦 𝘦𝘯𝘦𝘳𝘨𝘺, 𝘪𝘯𝘥𝘶𝘴𝘵𝘳𝘪𝘢𝘭 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯, 𝘈𝘐, 𝘮𝘢𝘳𝘬𝘦𝘵𝘱𝘭𝘢𝘤𝘦𝘴, 𝘞𝘦𝘣3, 𝘢𝘯𝘥 𝘦-𝘤𝘰𝘮𝘮𝘦𝘳𝘤𝘦. 𝘛𝘩𝘢𝘵 𝘳𝘢𝘯𝘨𝘦 𝘵𝘢𝘶𝘨𝘩𝘵 𝘮𝘦 𝘩𝘰𝘸 𝘵𝘰 𝘲𝘶𝘪𝘤𝘬𝘭𝘺 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘴𝘺𝘴𝘵𝘦𝘮𝘴, 𝘢𝘥𝘢𝘱𝘵 𝘧𝘢𝘴𝘵, 𝘢𝘯𝘥 𝘥𝘦𝘭𝘪𝘷𝘦𝘳 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴 𝘵𝘩𝘢𝘵 𝘮𝘢𝘬𝘦 𝘴𝘦𝘯𝘴𝘦 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 — 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘵𝘩𝘦 𝘤𝘰𝘥𝘦.</p>
 
@@ -19,171 +19,171 @@
 <table align="center">
 <!-- skill -->
   <tr>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" />
       <br>Javascript
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="35" height="35" />
       <br>Typescript
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=rust" width="25" height="25" alt="Rust" />
       <br>Rust
     </td>
-     <td align="center" width="50">
+     <td align="center" >
       <img src="https://skillicons.dev/icons?i=solidity" width="25" height="25" alt="Solidity" />
       <br>Solidity
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="35" height="35" />
       <br>Python
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=cpp" width="25" height="25" alt="cpp" />
       <br>C++
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=go" width="25" height="25" alt="Go" />
       <br>GoLang
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=php" width="25" height="25" alt="php" />
       <br>PHP
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=ruby" width="25" height="25" alt="Ruby" />
       <br>Ruby
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=java" width="25" height="25" alt="java" />
       <br>java
     </td>
   </tr>
   <!-- network -->
 <tr>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/solana.png" height="25" >
     <br>Solana
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/ethereum.png" height="25" >
     <br>Ethereum
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/Bitcoin.svg" height="25" >
     <br>Bitcoin
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/aptos1.png" height="25" >
     <br>Aptos
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/polkadot1.png" height="25" >
     <br>Polkadot
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/cosmos.png" height="25" >
     <br>Cosmos
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/polygon1.png" height="25" >
     <br>Polygon
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/ton.png" height="25" >
     <br>Ton
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/trx.png" height="25" >
     <br>Tron
   </td>
-  <td align="center" width="50">
+  <td align="center" >
     <img src="./icons/sui.png" height="25" >
     <br>Sui
   </td>
 </tr>
 <tr>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=nodejs" width="25" height="25" alt="nodejs" />
       <br>Nodejs
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=express" width="25" height="25" alt="Express" />
       <br>Express
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="35" height="35" />
       <br>React
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=nextjs" width="25" height="25" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="35" height="35" />
       <br>Django
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=laravel" width="25" height="25" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=angular" width="25" height="25" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=postgres" width="25" height="25" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=mongodb" width="25" height="25" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=mysql" width="25" height="25" alt="MySQL" />
       <br>MySQL
     </td>
   </tr>
 <!-- common -->
   <tr>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/openai.png" width="25" height="25" alt="binance" />
       <br>OpenAI
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/deepseek.svg" width="25" height="25" alt="DeepSeek" />
       <br>DeepSeek
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/Langchain.svg" width="25" height="25" alt="LangChain" />
       <br>LangChain
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/huggingface.svg" width="25" height="25" alt="HuggingFace" />
       <br>Hugging Face
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/eliza.jpg" width="25" height="25" alt="Eliza" />
       <br>ElizaOS
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=tensorflow" width="25" height="25" alt="TensorFlow" />
       <br>TensorFlow
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="35" height="35" />
       <br>PyTorch
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/ollama.svg" width="25" height="25" alt="Ollama" />
       <br>Ollama
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=fastapi" width="25" height="25" alt="FastAPI" />
       <br>FastAPI
     </td>
-    <td align="center" width="50">
+    <td align="center" >
       <img src="./icons/vapi.png" width="25" alt="VApi" />
       <br>VApi
     </td>
@@ -191,6 +191,7 @@
   
 </table>
 <br/>
+
 
 
 
