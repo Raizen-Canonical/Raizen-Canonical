@@ -1,14 +1,16 @@
 <div align="center">
-  <h2>💦 Web3 | Rust | Smart Contract | Trading Bot | 3D WebSite Developer 💦</h2>
+  <h2>💦 Full-Stack Software Developer | AI, Web3 & Scalable Systems 💦</h2>
 </div>
 
-<h4>I am a highly skilled software engineer with deep expertise in Web4 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
-I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols.</h4>
+<h4>𝓘’𝓶 𝓪 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓸𝓬𝓾𝓼𝓮𝓭 𝓸𝓷 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓹𝓻𝓸𝓭𝓾𝓬𝓽𝓼 𝓽𝓱𝓪𝓽 𝓪𝓬𝓽𝓾𝓪𝓵𝓵𝔂 𝔀𝓸𝓻𝓴, 𝓷𝓸𝓽 𝓳𝓾𝓼𝓽 𝓲𝓷 𝓽𝓱𝓮𝓸𝓻𝔂, 𝓫𝓾𝓽 𝓲𝓷 𝓽𝓱𝓮 𝓻𝓮𝓪𝓵 𝔀𝓸𝓻𝓵𝓭.</h4>
 
-<h4>With a solid background in 3D web development using Three.js, WebGL, and interactive UX/UI design, I create visually engaging, performance-optimized applications that bridge functionality with immersive design. 
-My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.</h4>
+<h4>𝓘’𝓿𝓮 𝔀𝓸𝓻𝓴𝓮𝓭 𝓪𝓬𝓻𝓸𝓼𝓼 20+ 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓲𝓷 𝓲𝓷𝓭𝓾𝓼𝓽𝓻𝓲𝓮𝓼 𝓵𝓲𝓴𝓮 𝓮𝓷𝓮𝓻𝓰𝔂, 𝓲𝓷𝓭𝓾𝓼𝓽𝓻𝓲𝓪𝓵 𝓪𝓾𝓽𝓸𝓶𝓪𝓽𝓲𝓸𝓷, 𝓐𝓘, 𝓶𝓪𝓻𝓴𝓮𝓽𝓹𝓵𝓪𝓬𝓮𝓼, 𝓦𝓮𝓫3, 𝓪𝓷𝓭 𝓮-𝓬𝓸𝓶𝓶𝓮𝓻𝓬𝓮. 𝓣𝓱𝓪𝓽 𝓻𝓪𝓷𝓰𝓮 𝓽𝓪𝓾𝓰𝓱𝓽 𝓶𝓮 𝓱𝓸𝔀 𝓽𝓸 𝓺𝓾𝓲𝓬𝓴𝓵𝔂 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭 𝓭𝓲𝓯𝓯𝓮𝓻𝓮𝓷𝓽 𝓼𝔂𝓼𝓽𝓮𝓶𝓼, 𝓪𝓭𝓪𝓹𝓽 𝓯𝓪𝓼𝓽, 𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓼𝓸𝓵𝓾𝓽𝓲𝓸𝓷𝓼 𝓽𝓱𝓪𝓽 𝓶𝓪𝓴𝓮 𝓼𝓮𝓷𝓼𝓮 𝓯𝓸𝓻 𝓽𝓱𝓮 𝓫𝓾𝓼𝓲𝓷𝓮𝓼𝓼, 𝓷𝓸𝓽 𝓳𝓾𝓼𝓽 𝓽𝓱𝓮 𝓬𝓸𝓭𝓮.</h4>
 
-<h4>I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
+<h4>𝓘 𝓬𝓪𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓼𝓲𝓶𝓹𝓵𝓲𝓬𝓲𝓽𝔂, 𝓹𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮, 𝓪𝓷𝓭 𝓻𝓮𝓵𝓲𝓪𝓫𝓲𝓵𝓲𝓽𝔂. 𝓘 𝓭𝓸𝓷’𝓽 𝓸𝓿𝓮𝓻𝓬𝓸𝓶𝓹𝓵𝓲𝓬𝓪𝓽𝓮 𝓽𝓱𝓲𝓷𝓰𝓼. 𝓘 𝓫𝓾𝓲𝓵𝓭 𝓼𝔂𝓼𝓽𝓮𝓶𝓼 𝓽𝓱𝓪𝓽 𝓪𝓻𝓮 𝓬𝓵𝓮𝓪𝓷, 𝓼𝓬𝓪𝓵𝓪𝓫𝓵𝓮, 𝓪𝓷𝓭 𝓮𝓪𝓼𝔂 𝓽𝓸 𝓶𝓪𝓲𝓷𝓽𝓪𝓲𝓷.</h4>
+
+<h4>𝓦𝓱𝓮𝓷 𝓘 𝓽𝓪𝓴𝓮 𝓸𝓷 𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽, 𝓘 𝓽𝓻𝓮𝓪𝓽 𝓲𝓽 𝓵𝓲𝓴𝓮 𝓶𝔂 𝓸𝔀𝓷. 𝓘 𝓽𝓱𝓲𝓷𝓴 𝓫𝓮𝔂𝓸𝓷𝓭 𝓽𝓱𝓮 𝓽𝓪𝓼𝓴, 𝓪𝓫𝓸𝓾𝓽 𝓾𝓼𝓮𝓻𝓼, 𝓰𝓻𝓸𝔀𝓽𝓱, 𝓪𝓷𝓭 𝓵𝓸𝓷𝓰-𝓽𝓮𝓻𝓶 𝓲𝓶𝓹𝓪𝓬𝓽.</h4>
+
+<h4>𝓘𝓯 𝓘 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝔀𝓱𝓪𝓽 𝓘’𝓶 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰, 𝓘’𝓶 𝓪𝓵𝓵 𝓲𝓷. 𝓘’𝓵𝓵 𝓫𝓮 𝓽𝓱𝓲𝓷𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓲𝓽, 𝓲𝓶𝓹𝓻𝓸𝓿𝓲𝓷𝓰 𝓲𝓽, 𝓪𝓷𝓭 𝓹𝓾𝓼𝓱𝓲𝓷𝓰 𝓲𝓽 𝓯𝓸𝓻𝔀𝓪𝓻𝓭, 𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓽𝓱𝓪𝓽’𝓼 𝓳𝓾𝓼𝓽 𝓱𝓸𝔀 𝓘 𝔀𝓸𝓻𝓴.</h4>
 
 <br/>
 
@@ -190,153 +192,6 @@ My full stack experience spans React, Next.js, Node.js, and modern DevOps workfl
 <br/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-# <i>My Previous Blockchain projects</i>
-
-I have developed multiple NFT and blockchain projects encompassing a wide range of functionalities, including NFT lending and borrowing platforms, minting, staking, evolution/breeding mechanisms, raffle and auction systems, launchpads, marketplaces, and play-to-earn (P2E) games such as loot boxes, dice, crash, jackpot, and coin flip. All related repositories are maintained as private.
-
-
-<h3><u><strong><i>Moomoo</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/1.png">
-I developed Moomoo, a cutting-edge trading platform that empowers investors with zero-commission trading and a suite of advanced tools to enhance their investment strategies.
-Leveraging modern web technologies and secure infrastructure, I implemented features such as real-time data streaming, interactive charting, and seamless integration with financial APIs to provide users with a comprehensive trading experience.
-The platform has the potential to expand by incorporating additional asset classes, enhancing mobile accessibility, and integrating AI-driven analytics to offer personalized investment recommendations.
-
-<h3><u><strong><i>Magnum AI</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/13.png">
-I developed Magnum AI, a platform that integrates advanced technology to offer users a seamless and secure online lottery and betting experience across multiple international markets.
-Utilizing robust backend technologies and secure payment gateways, I implemented a system that ensures real-time updates, user authentication, and data encryption, providing a trustworthy environment for users.
-The platform has the potential to expand by incorporating additional betting options, enhancing mobile accessibility, and integrating advanced analytics to offer personalized user experiences.
-
-
-<h3><u><strong><i>Supra</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/2.png">
-I developed Supra, a cutting-edge Layer 1 blockchain that integrates oracles, verifiable randomness, automation, and cross-chain communication into a unified platform.
-I engineered Supra's architecture to support multiple virtual machines, enabling developers to build dApps in various programming languages, and implemented native services like oracles and automation for seamless interoperability.
-Supra is poised for growth through the expansion of its ecosystem, increased adoption of its native services, and continuous enhancements to its developer tools and community engagement initiatives.
-
-<h3><u><strong><i>TradeLocker</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/3.png">
-I developed TradeLocker, a next-generation trading platform that empowers traders with advanced charting, seamless order execution, and robust risk management tools.
-Leveraging the power of TradingView integration, I implemented real-time market analysis, customizable indicators, and intuitive order placement features. The platform supports trading across various asset classes, including forex, indices, metals, and cryptocurrencies. 
-TradeLocker has the potential to expand by incorporating AI-driven trading algorithms, enhancing mobile accessibility, and integrating with additional financial markets to provide a comprehensive trading ecosystem.
-
-
-
-<h3><u><strong><i>Singular</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/4.png">
-I developed Singular, a modular NFT marketplace designed to empower creators and collectors with advanced tools for minting, trading, and experiencing NFTs.
-Singular: the Modular NFT Marketplace
-Utilizing blockchain technologies, I implemented a customizable platform that supports various NFT functionalities, ensuring scalability and user engagement.
-Singular: the Modular NFT Marketplace
-Singular is poised for growth by incorporating additional features, expanding its user base, and continuously innovating to meet the evolving needs of the NFT community.
-<h3><u><strong><i>Trisolaris</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/5.png">
-I developed Trisolaris, a decentralized exchange leveraging Aurora's EVM compatibility to provide efficient and cost-effective trading solutions.
-Utilizing Solidity for smart contract development and integrating with the Aurora engine, I implemented features like token swaps, liquidity pools, and staking mechanisms.
-The platform has the potential to expand by incorporating additional DeFi services, enhancing user experience, and fostering a broader community through governance participation.
-
-
-<h3><u><strong><i>Atujii</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/6.png">
-I developed Atujii, an engaging AR mobile application that allows users to adopt and interact with virtual pets, fostering creativity and learning.
-Utilizing Unity for AR experiences and integrating with mobile platforms, I implemented features that enable daily interactions and personalized pet care.
-The app has the potential to expand by introducing new pet characters, enhancing AR capabilities, and integrating educational modules to further engage users.
-
-
-<h3><u><strong><i>PepeArab</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/8.png">
-
-I developed PepeArab, a meme-centric crypto ecosystem combining a crypto exchange, deflationary tokenomics, and NFT features for Arabic-speaking users.
-I engineered its cross-chain infrastructure on Ethereum and Solana, implemented staking, buyback/burn mechanics, NFT integration, and seamless token bridge functionality.
-The platform is primed for growth through exchange expansion, AI-driven personalizations, community-driven staking programs, and scaling into a full-featured DeFi-meme ecosystem.
-
-<h3><u><strong><i>Moments of Space</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/9.png">
-I developed Moments of Space, an innovative meditation app that combines ancient Dzogchen teachings with modern technology to facilitate mindfulness in everyday life.
-I utilized advanced AI algorithms to personalize meditation experiences, ensuring they align with users' emotional states and daily activities.
-The app has the potential to expand its features by incorporating more personalized meditation paths, integrating with wearable devices for real-time feedback, and fostering a global community of mindfulness practitioners.
-
-<h3><u><strong><i>image generation tool</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/10.png">
-I developed MyAI Zone's image generation tool, enabling users to create detailed visuals from text prompts with ease.
-Utilizing advanced AI algorithms, I implemented a system that converts textual descriptions into high-quality images, ensuring a seamless user experience.
-The platform has the potential to expand by integrating more complex AI models, enhancing image customization options, and incorporating user feedback to improve the generation process.
-
-
-
-<h3><u><strong><i>TradeZella</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/11.png">
-I developed TradeZella, a cutting-edge trading journal and analytics platform that empowers traders to log, analyze, and improve their trading performance through automated journaling and comprehensive reporting.
-Utilizing modern web technologies and secure infrastructure, I implemented features such as broker integrations, real-time data processing, and intuitive user interfaces to provide traders with a seamless and efficient experience.
-The platform has the potential to expand by incorporating AI-driven analytics, enhancing mobile accessibility, and integrating with additional financial markets to offer a comprehensive trading ecosystem.
-
-<h3><u><strong><i>Sandbox</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/12.png">
-I developed The Sandbox, a blockchain-based gaming platform where players can create, own, and monetize voxel worlds using NFTs.
-I implemented smart contracts for secure transactions, NFT ownership of in-game assets, and a scalable backend for high user concurrency.
-The platform can expand with VR support, AI-driven content creation, and cross-platform integration to enhance immersive experiences.
-
-<h3><u><strong><i>GainPool</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/14.png">
-I developed GainPool, a multi-chain IDO/TGE platform that aggregates launchpads and enables users to access early-stage project funding.
-I implemented Ethereum smart contracts, integrated multiple launchpads, and built a scalable, user-friendly interface.
-GainPool can expand cross-chain, add analytics tools, and increase partnerships to offer more investment opportunities.
-
-<h3><u><strong><i>NFT Marketplac</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/15.png">
-I developed Mr. Mint's NFT Marketplace, a platform that bridges the gap between digital collectibles and cryptocurrency mining, offering users a unique Web3 experience.
-Utilizing blockchain technology, I implemented a system that allows users to mint and trade NFTs, each linked to real-world mining activities, ensuring a seamless and secure experience.
-The marketplace has the potential to expand by integrating additional blockchain features, enhancing user engagement through gamification, and fostering a vibrant community of digital asset enthusiasts.
-
-
-
-<h3><u><strong><i>CryptoBlades</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/16.png">
-I developed CryptoBlades, a decentralized RPG that integrates blockchain technology to offer players the opportunity to earn SKILL tokens through strategic gameplay and NFT ownership.
-Utilizing multiple blockchain platforms, I implemented a secure and scalable infrastructure that supports NFT minting, staking, and marketplace transactions, ensuring a seamless user experience.
-The platform has the potential to expand by incorporating additional gameplay modes, enhancing cross-chain compatibility, and fostering a vibrant community through guilds and alliances.
-
-
-
-<h3><u><strong><i>Wooshi</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/17.png">
-I developed Wooshi World, a dynamic metaverse platform where users can own, trade, and interact with unique Wooshi NFTs, each offering distinct traits and abilities.
-Leveraging Ethereum's blockchain, I implemented smart contracts to ensure secure ownership and transaction of Wooshi NFTs, integrating them seamlessly into the Wooshi World ecosystem.
-The platform has the potential to expand by incorporating additional gameplay features, enhancing user engagement through community events, and integrating with other metaverse platforms for broader interoperability.
-
 
 <p align="center">
      <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
